@@ -13,8 +13,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
-iunos cambios
-y otros camvius
-asidubai
-aksjdfaksf
-sdfijsd
+
